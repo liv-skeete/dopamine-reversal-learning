@@ -142,16 +142,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{dopamine_research_2024,
+@software{dopamine_research_2025,
   title = {Dopamine Research: Computational Models of Addiction},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/your-username/dopamine-research}
+  author = {Liv Skeete},
+  year = {2025},
+  url = {https://github.com/liv-skeete/dopamine-research}
 }
 ```
 
 ## Contact
 
 For questions or collaborations, please contact:
-- Email: your.email@example.com
-- GitHub: @your-username
+- Email: liv@di.st
+- GitHub: @liv-skeete
